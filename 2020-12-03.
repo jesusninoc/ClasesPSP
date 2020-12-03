@@ -1,0 +1,34 @@
+
+# Programación de comunicaciones en red:
+ -	Comunicación entre aplicaciones.
+ -	Roles cliente y servidor.
+ -	Elementos de programación de aplicaciones en red. Librerías.
+ -	Sockets.
+ -	Creación de sockets.
+ -	Enlazado y establecimiento de conexiones.
+ -	Utilización de sockets para la transmisión y recepción de información.
+ -	Programación de aplicaciones cliente y servidor.
+ -	Utilización de hilos en la programación de aplicaciones en red.
+
+------------------------
+
+# Modificar datagramas UDP
+
+## Ejecutar un cmdlet remotamente en un equipo utilizando sockets UDP
+https://www.jesusninoc.com/2017/01/27/ejecutar-un-cmdlet-remotamente-en-un-equipo-utilizando-sockets-udp/
+
+## Enviar la hora mediante socket
+https://github.com/javierinformatica/PSP/blob/master/Ejemplos/src/Red/Ejercicio3Servidor.java
+
+## Modificar datagramas UDP con SoftPerfect Network Protocol Analyzer
+* https://www.jesusninoc.com/2016/03/19/modificar-datagramas-udp-con-softperfect-network-protocol-analyzer/
+
+## Modificar la dirección IP de origen en mensajes UDP con SoftPerfect Network Protocol Analyzer
+* https://www.jesusninoc.com/2016/04/02/modificar-la-direccion-ip-de-origen-en-mensajes-udp-con-softperfect-network-protocol-analyzer/
+
+## Tcpreplay - Pcap Editing And Replay Tools For NIX And Windows
+* https://www.kitploit.com/2018/12/tcpreplay-pcap-editing-and-replay-tools.html
+
+## Más sobre generadores de paquetes
+* https://github.com/jesusninoc/ClasesISO/blob/master/2018-05-07.md#packet-generator
+* https://github.com/jesusninoc/ClasesISO/blob/master/2018-04-28.md

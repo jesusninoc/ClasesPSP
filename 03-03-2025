@@ -1,0 +1,54 @@
+## Generación de servicios en red:
+ -	Protocolos estándar de comunicación en red a nivel de aplicación (telnet, ftp, http, pop3, smtp, entre otros).
+ -	Librerías de clases y componentes.
+ -	Utilización de objetos predefinidos.
+ -	Establecimiento y finalización de conexiones.
+ -	Transmisión de información.
+ -	Programación de aplicaciones cliente.
+ - Programación de servidores.
+ -	Implementación de comunicaciones simultáneas.
+
+### Teoría de servicios en red
+* https://www.jesusninoc.com/12/17/generacion-de-servicios-en-red-programacion-de-servicios-y-procesos/
+
+### Ejercicios
+
+#### Enviar correos electrónicos utilizando la biblioteca JavaMail desde Kotlin
+* https://www.jesusninoc.com/07/31/enviar-correos-electronicos-utilizando-la-biblioteca-javamail-desde-kotlin/
+#### Conectarse a un servidor SSH en Kotlin
+* https://www.jesusninoc.com/11/01/conectarse-a-un-servidor-ssh-en-kotlin/
+#### Realizar en Kotlin una suma mediante una interfaz que contiene los métodos que se ejecutarán de forma remota (RMI)
+* https://www.jesusninoc.com/07/13/realizar-en-kotlin-una-suma-mediante-una-interfaz-que-contiene-los-metodos-que-se-ejecutaran-de-forma-remota-rmi/
+#### Envío de formulario entre un cliente y un servidor mediante RMI en Kotlin
+* https://www.jesusninoc.com/07/13/https-www-jesusninoc-com-07-13-envio-de-formulario-mediante-rmi-en-kotlin/
+#### Envío de datos de un formulario entre cliente y servidor mediante RMI en JavaFX con Kotlin
+* https://www.jesusninoc.com/07/13/envio-de-datos-de-un-formulario-entre-cliente-y-servidor-mediante-rmi-en-javafx-con-kotlin/
+#### Leyendo y analizando un Archivo JSON en línea desde Kotlin
+* https://www.jesusninoc.com/07/31/leyendo-y-analizando-un-archivo-json-en-linea-desde-kotlin/
+
+-----------------------
+
+## Utilización de técnicas de programación segura:
+ -	Prácticas de programación segura.
+ -	Criptografía de clave pública y clave privada.
+ -	Principales aplicaciones de la criptografía.
+ -	Protocolos criptográficos.
+ -	Política de seguridad.
+ -	Programación de mecanismos de control de acceso.
+ -	Encriptación de información.
+ -	Protocolos seguros de comunicaciones.
+ -	Programación de aplicaciones con comunicaciones seguras.
+
+### Teoría de programación segura
+* https://www.jesusninoc.com/12/18/utilizacion-de-tecnicas-de-programacion-segura-programacion-de-servicios-y-procesos/
+
+### Ejercicios
+
+#### Almacenar claves privadas y públicas
+* https://www.jesusninoc.com/06/16/almacenar-las-claves-privadas-y-publicas-en-un-archivo-en-kotlin/
+#### Cifrar y descifrar utilizando clave pública
+* https://www.jesusninoc.com/06/16/cifrar-y-descifrar-utilizando-clave-publica-en-kotlin/
+#### Cifrar y descifrar con clave secreta que se ha transmitido mediante cifrado asimétrico
+* https://www.jesusninoc.com/06/16/cifrar-y-descifrar-con-clave-clave-secreta-aes-que-se-ha-transmitido-mediante-cifrado-asimetrico-rsa-en-kotlin/
+#### Socket SSL en Kotlin 
+* https://www.jesusninoc.com/07/13/socket-ssl-en-kotlin/
